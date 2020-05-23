@@ -1,0 +1,15 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://example.org/posts/first-post/</loc><lastmod>2020-05-23T12:29:01&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/about/aboutme/</loc><lastmod>2020-05-23T13:10:24&#43;05:30</lastmod></url><url>
+            <loc>http://example.org/about/</loc><lastmod>2020-05-23T13:10:24&#43;05:30</lastmod></url><url>
+            <loc>http://example.org/categories/</loc><lastmod>2020-05-23T13:10:24&#43;05:30</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2020-05-23T13:10:24&#43;05:30</lastmod></url><url>
+            <loc>http://example.org/categories/introduction/</loc><lastmod>2020-05-23T13:10:24&#43;05:30</lastmod></url><url>
+            <loc>http://example.org/tags/configuration/</loc><lastmod>2020-05-23T12:29:01&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/documentation/</loc><lastmod>2020-05-23T12:29:01&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/installation/</loc><lastmod>2020-05-23T12:29:01&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2020-05-23T12:29:01&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/</loc><lastmod>2020-05-23T12:29:01&#43;08:00</lastmod></url></urlset>
