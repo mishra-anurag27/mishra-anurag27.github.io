@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: anuragsiet  # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: anuragsiet@gmail.com  # Leave blank if you don't have now
-  cv:   # An online CV can be printed as PDF, leave blank if you don't have now
+  cv:  https://drive.google.com/file/d/1P_Ls3hWq6YUp-h-8_W4KyVWc_K8GjyPX/view?usp=sharing # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -28,8 +28,11 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
 
+  desc:   <p><strong>Anurag Mishra</strong> is working as a <em>Senior Technical Product Manager</em> at The Boeing Company (Bengaluru, India) where he is working with Software Engineering teams to build product based on Software Engineering & Data Analytics for Boeing Commercial Airplanes and Boeing Global Services, bringing state-of-the-art Data Analytics, AI and Machine Learning capabilities into innovative product ideation, development and launch(release) efforts.</p>
+    
+    <p>Anurag has completed his <strong>MBA in Information Technology and Systems Management</strong> from NMIMS, Mumbai in 2022, has a Bachelor degree (Hons.) in Electrical Engineering from Dr. A. P. J. Abdul Kalam Technical University (formerly UPTU) and is a certified Product Manager/Owner from <strong>Scrum Alliance </strong> and  <strong>Scaled agile framework for Enterprise (SAFe) </strong> </p>  # Describe yourself.
+   greetings: "Hello, Welcome to my website!"
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: Anurag-Mishra
