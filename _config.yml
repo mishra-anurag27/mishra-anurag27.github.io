@@ -23,15 +23,15 @@ author:  # change following line to your infomation.
   cv:  https://drive.google.com/file/d/1P_Ls3hWq6YUp-h-8_W4KyVWc_K8GjyPX/view?usp=sharing # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-linux
-    - name: icon-python
+    - name:
+    - name: 
   skill_icon2:
-    - name: fa-linux
-    - name: icon-python
+    - name: 
+    - name: 
 
   greetings: "Hello, Welcome to my Website!"
   desc:  |
-   <p><strong>Anurag Mishra</strong> is working as a <em>Senior Technical Product Manager</em> at <strong>The Boeing Company (Bengaluru, India) </strong> where he is working with Software Engineering teams to build product based on Software Engineering & Data Analytics for Boeing Commercial Airplanes and Boeing Global Services, bringing state-of-the-art Data Analytics, AI and Machine Learning capabilities into innovative product ideation, development and launch(release) efforts.</p>
+   <p><strong>Anurag Mishra</strong> is working as a <em>Senior Technical Product Manager</em> at <strong>The Boeing Company (Bengaluru, India) </strong> where he is working with Software Engineering teams to build product based on Software Engineering & Data Analytics for Boeing Commercial Airplanes and Boeing Global Services, bringing state-of-the-art Data Analytics, AI and Machine Learning capabilities into innovative product ideation, development and launch (release) efforts.</p>
     <p>Anurag has completed his <strong>MBA in Information Technology and Systems Management</strong> from NMIMS, Mumbai in 2022, has a Bachelor degree (Hons.) in Electrical Engineering from Dr. A. P. J. Abdul Kalam Technical University (formerly UPTU) and is a certified Product Manager/Owner from <strong>Scrum Alliance </strong> and  <strong>Scaled agile framework for Enterprise (SAFe) </strong> </p> 
   
   
@@ -53,7 +53,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
