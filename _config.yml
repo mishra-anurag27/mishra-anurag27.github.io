@@ -29,10 +29,12 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-python
 
+  greetings: "Hello, Welcome to my Website!"
   desc:  |
-   <p><strong>Anurag Mishra</strong> is working as a <em>Senior Technical Product Manager</em> at The Boeing Company (Bengaluru, India) where he is working with Software Engineering teams to build product based on Software Engineering & Data Analytics for Boeing Commercial Airplanes and Boeing Global Services, bringing state-of-the-art Data Analytics, AI and Machine Learning capabilities into innovative product ideation, development and launch(release) efforts.</p>
-    <p>Anurag has completed his <strong>MBA in Information Technology and Systems Management</strong> from NMIMS, Mumbai in 2022, has a Bachelor degree (Hons.) in Electrical Engineering from Dr. A. P. J. Abdul Kalam Technical University (formerly UPTU) and is a certified Product Manager/Owner from <strong>Scrum Alliance </strong> and  <strong>Scaled agile framework for Enterprise (SAFe) </strong> </p>  # Describe yourself.
-   greetings: "Hello, Welcome to my website!"
+   <p><strong>Anurag Mishra</strong> is working as a <em>Senior Technical Product Manager</em> at <strong>The Boeing Company (Bengaluru, India) </strong> where he is working with Software Engineering teams to build product based on Software Engineering & Data Analytics for Boeing Commercial Airplanes and Boeing Global Services, bringing state-of-the-art Data Analytics, AI and Machine Learning capabilities into innovative product ideation, development and launch(release) efforts.</p>
+    <p>Anurag has completed his <strong>MBA in Information Technology and Systems Management</strong> from NMIMS, Mumbai in 2022, has a Bachelor degree (Hons.) in Electrical Engineering from Dr. A. P. J. Abdul Kalam Technical University (formerly UPTU) and is a certified Product Manager/Owner from <strong>Scrum Alliance </strong> and  <strong>Scaled agile framework for Enterprise (SAFe) </strong> </p> 
+  
+  
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: Anurag-Mishra
