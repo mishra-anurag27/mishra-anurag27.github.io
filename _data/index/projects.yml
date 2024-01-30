@@ -5,14 +5,14 @@
   i18n: 
   gh_user: 
   repo: 
-  img: /static/assets/img/landing/jekyll.png
+  img: 
   desc: 
 
 - name: 
   i18n: 
   gh_user: 
   repo: 
-  img: /static/assets/img/landing/python.png
+  img: 
   desc: 
 
 
