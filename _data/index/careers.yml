@@ -28,7 +28,7 @@
     detail: Technical Product Manager
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: UST Global
@@ -43,7 +43,7 @@
     detail: Product Manager
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: OnPoint - A Koch Engineered Solutions Company 
@@ -58,7 +58,7 @@
     detail: Technical Product Manager
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: The Boeing Company 
@@ -73,7 +73,7 @@
     detail: Product Owner
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Infosys Limited
@@ -88,7 +88,7 @@
     detail: Product Owner
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
   
 - name:
@@ -104,4 +104,4 @@
     detail: Systems Engineer
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
