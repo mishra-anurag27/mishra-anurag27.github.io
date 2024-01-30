@@ -24,6 +24,12 @@
   tpl: projects.html
   css: project
 
+- id: education
+  i18n: nav.education
+  name: Education
+  tpl: education.html
+  css: timeline
+
 - id: blog
   i18n: nav.blog
   name: Blog

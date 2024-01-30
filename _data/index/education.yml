@@ -1,0 +1,46 @@
+# Education section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Narsee Monjee Institue of Management Studies (NMIMS), Mumbai
+    i18n: company_a
+  desc:
+    detail: MBA - Information Technology & Systems Management (ITSM)
+    i18n: company_a_desc
+  date:
+    detail: Jun 20 - Jun 22
+    i18n: company_a_date
+  job:
+    detail: Degree awarded in 2022 with 85.5 % marks, ranked 1 in the specilization.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Narsee Monjee Institue of Management Studies (NMIMS), Mumbai
+    i18n: company_b
+  desc:
+    detail: Diploma in Business Management
+    i18n: company_b_desc
+  date:
+    detail: Jun 20 - Jun 21
+    i18n: company_b_date
+  job:
+    detail: Certification completed
+    i18n: company_b_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Dr. A. P. J. Abdul Kalam Technical University (formerly UPTU) 
+    i18n: company_b
+  desc:
+    detail: Bachelors of Technology (B.Tech) in Electrical Engineering.
+    i18n: company_b_desc
+  date:
+    detail: Jul 07 - Jun 11
+    i18n: company_b_date
+  job:
+    detail: Degree awarded in 2011 with Hons., secured 75.38 % marks.
+    i18n: company_b_job
+  icon: fa-plus-square
+  present: false
