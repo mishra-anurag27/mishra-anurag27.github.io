@@ -7,7 +7,7 @@
     detail: Working as a Senior Technical Product Manager responsible for Data acquisiiton, analytics products from 0 to 1 to N.
     i18n: company_a_desc
   date:
-    detail: Nov. 2023
+    detail: Nov 23 - Present
     i18n: company_a_date
   job:
     detail: Experienced Technical Product Owner
@@ -22,9 +22,80 @@
     detail: Worked at Sirion as Technical Product Manager responsible for SaaS Platform based products and feature development related to Workflow/Product Configuration, Client Rollout and Admin Features from Ideation to Rollout and Scaling.
     i18n: company_b_desc
   date:
-    detail: Dec 2021 - Nov 2023
+    detail: Dec 21 - Nov 23
     i18n: company_b_date
   job:
     detail: Technical Product Manager
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: UST Global
+    i18n: company_b
+  desc:
+    detail: Worked as a Platform Product Manager, responsible for Product development (0 to 1) for some of the key features related to measuring agility , productivity of agile transformation teams via UST PACE (Platform for accelerated cloud engineering).
+    i18n: company_b_desc
+  date:
+    detail: Jun 21 - Nov 21
+    i18n: company_b_date
+  job:
+    detail: Product Manager
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
+    detail: OnPoint - A Koch Engineered Solutions Company 
+    i18n: company_b
+  desc:
+    detail: Worked as a Technical Product Manager, responsible for Product development (0 to 1) for integrating Zoloscan and Zoloscan 2 product offerings to OnPoint in-house platform product.
+    i18n: company_b_desc
+  date:
+    detail: Nov 20 - Jun 21
+    i18n: company_b_date
+  job:
+    detail: Technical Product Manager
+    i18n: company_b_job
+  icon: fa-plus-square
+
+   - name:
+    detail: The Boeing Company 
+    i18n: company_b
+  desc:
+    detail: Worked as a Prgrammer Analyst/ Product Owner for Business and Supply Chain systems.
+    i18n: company_b_desc
+  date:
+    detail: Nov 17 - Nov 20
+    i18n: company_b_date
+  job:
+    detail: Product Owner
+    i18n: company_b_job
+  icon: fa-plus-square
+
+    - name:
+    detail: Infosys Limited
+    i18n: company_b
+  desc:
+    detail: Worked as a Technical Analyst/ Product Owner on Retail, Finance, Energy and Client delivery domains.
+    i18n: company_b_desc
+  date:
+    detail: Jan 14 - Oct 17
+    i18n: company_b_date
+  job:
+    detail: Product Owner
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  
+    - name:
+    detail: Infosys Limited
+    i18n: company_b
+  desc:
+    detail: Worked as a Systems Engineer on Retail, HR, HCM and Client delivery domains.
+    i18n: company_b_desc
+  date:
+    detail: Feb 12 - Dec 13
+    i18n: company_b_date
+  job:
+    detail: Systems Engineer
     i18n: company_b_job
   icon: fa-plus-square
