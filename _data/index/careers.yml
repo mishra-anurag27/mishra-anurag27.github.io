@@ -45,7 +45,7 @@
   icon: fa-plus-square
   present: true
 
-  - name:
+- name:
     detail: OnPoint - A Koch Engineered Solutions Company 
     i18n: company_b
   desc:
@@ -60,7 +60,7 @@
   icon: fa-plus-square
   present: true
 
-   - name:
+- name:
     detail: The Boeing Company 
     i18n: company_b
   desc:
@@ -75,7 +75,7 @@
   icon: fa-plus-square
   present: true
 
-    - name:
+- name:
     detail: Infosys Limited
     i18n: company_b
   desc:
@@ -91,7 +91,7 @@
   present: true
 
   
-    - name:
+- name:
     detail: Infosys Limited
     i18n: company_b
   desc:
